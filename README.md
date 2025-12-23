@@ -1,4 +1,4 @@
-# Raku Foundation documents
+# Index
 
 - [Articles Of Association](articles-of-association.md)
 - [Regulations for the operation of the Raku Foundation](RakuFoundationRegulations.md)
