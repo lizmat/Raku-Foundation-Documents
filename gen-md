@@ -1,2 +1,1 @@
-#! /bin/env bash
 MORE_MARKDOWN=more-markdown.raku RenderDocs --src=.
