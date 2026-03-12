@@ -106,7 +106,7 @@
 
 **Article 9.** Beslissingstypen  
 
-<span class="para" id="4b6c8e3"></span>Acties die het bestaan, de werking of de reputatie van de RF op welke manier dan ook beïnvloeden die moeten worden ondernomen, uitgevoerd, in gang worden gezet door functionarissen van de RF of een van haar agenten, worden toegewezen aan één van de volgende categorieën 
+<span class="para" id="4382b83"></span>Acties die het bestaan, de werking of de reputatie van de Raku Foundation op welke manier dan ook beïnvloeden die moeten worden ondernomen, uitgevoerd, in gang worden gezet door functionarissen van de Raku Foundation of een van haar agenten, worden toegewezen aan één van de volgende categorieën 
 
 &nbsp;&nbsp;• Operationeel  
 &nbsp;&nbsp;• Belangrijk  
@@ -449,19 +449,7 @@
 
 ----
 
-Rendered from ./statuten.rakudoc/statuten at 09:19 UTC on 2026-03-12
+Rendered from ./statuten.rakudoc/statuten at 09:24 UTC on 2026-03-12
 
-Source last modified at 09:17 UTC on 2026-03-12
-
-
-
-----
-
-----
-
-## WARNINGS
-
-1: Unknown or as yet undeclared alias ｢RF｣ in block ｢rakudoc｣ with heading ｢Bestuur｣
-
-2: Unknown or as yet undeclared alias ｢RF｣ in block ｢rakudoc｣ with heading ｢Bestuur｣
+Source last modified at 09:23 UTC on 2026-03-12
 

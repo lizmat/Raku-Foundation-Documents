@@ -1,0 +1,370 @@
+=begin rakudoc
+
+=TITLE Articles of Association
+
+=for AUTHORS :hidden
+Elizabeth Mattijsen
+Richard Hainsworth
+William Coleda
+
+=VERSION v0.1.3
+
+=config numitem :prefix<Article> :continued
+=alias RP Raku Programming Language
+=alias FDN Raku Foundation
+=alias RegPlace Echt
+=alias HQ gemeente van hoofdkantoor
+=alias RevConst 20% (twintig procent)
+=alias RunMonth drie
+=alias Exec Raad van Bestuur
+=alias Super Raad van Commissarissen
+=alias Mem Raku-gemeenschap
+=alias ForceImp een derde
+=alias RptArch tien
+=alias ArtAssoc statuten
+=alias Regul huishoudelijk reglement
+=alias Reguls huishoudelijke reglementen
+
+=head Naam, registratie en taal
+
+=numitem Naam
+
+De vereniging draagt de naam: de A<FDN>.
+
+=numitem Registratie
+
+De vereniging heeft haar statutaire zetel in A<RegPlace>.
+
+=numitem Taal
+
+Alle documenten met betrekking tot de A<FDN> moeten in het Engels zijn, met uitzondering van die welke vereist zijn door de Nederlandse wet en die vereist zijn voor in Nederland geregistreerde bedrijven die in de taal of talen zijn die vereist zijn door de Nederlandse wet of de voorschriften voor registratie in Nederland.
+
+=head Doel
+=numitem
+
+Het doel van de A<FDN> is:
+=item om het gebruik van A<RP> wereldwijd te promoten en te ondersteunen,
+=item een autoriteit zijn om de kwaliteit van software te bepalen die is geschreven in de A<RP>,
+=item om conferenties, seminars, workshops en andere evenementen te organiseren om de doelstellingen van de A<FDN> te bevorderen,
+=item om te coördineren met onderwijsinstellingen om de doelstellingen van de A<FDN> te bevorderen,
+=item om advies en managementondersteuning te bieden met betrekking tot de A<RP> aan individuen en andere organisaties,
+=item om projecten te faciliteren en te beheren die software ontwikkelen die is geschreven in of ter ondersteuning van de A<RP>,
+=item andere individuen en organisaties, inclusief bedrijven met winstoogmerk, aan te moedigen om projecten uit te voeren die software maken of gebruiken die geheel of gedeeltelijk is geschreven in de A<RP>,
+=item om een onderneming te starten of eraan deel te nemen ten behoeve van andere objecten van de A<FDN>,
+=item om alles te doen wat direct of indirect verband houdt met of gunstig kan zijn voor het bovenstaande, dit alles in de breedste zin van het woord.
+
+=head Financiën
+=numitem Inkomsten
+
+De A<FDN> haalt haar inkomsten uit:
+=item subsidies and donaties,
+=item geschenken, testamentaire beschikkingen, subsidies en specifieke legaten,
+=item lidmaatschapsgeld,
+=item advies- en beheerkosten betaald door derden,
+=item winst van de werking van de A<FDN>,
+=item alle andere overnames en inkomsten.
+
+=numitem Reserves en bedrijfsbudget
+=item De A<FDN> stelt een bedrijfsbudget op waaruit haar maandelijkse uitgaven worden betaald gebaseerd op groei.
+=item De A<FDN> zal onbeperkte reserves creëren, waarin inkomsten van organisaties met winstoogmerk zullen worden gestort.
+=item De A<FDN> zal beperkte reserves creëren, waarin subsidies zullen worden betaald voor projecten, donaties, subsidies, geschenken, subsidies en legaten en dergelijke, die convenanten of voorwaarden kunnen hebben over het gebruik waarvoor het geld kan worden besteed.
+=item Het operationele budget kan worden gevormd uit lopende inkomsten uit lidmaatschapskosten, advies- en beheerskosten, donaties van particulieren, rente betaald op reserves en investeringen, en winst uit de werking van de A<FDN>.
+=item Het exploitatiebudget kan worden verhoogd door overdrachten van de onbeperkte reserves, met dien verstande dat niet meer dan A<RevConst> van het maandelijkse bedrijfsbudget dat over de voorgaande drie maanden wordt gemiddeld, afkomstig mag zijn van een onbeperkte reserve die is gevormd uit inkomsten uit één enkele organisatie met winstoogmerk.
+
+=head Bestuur
+=numitem Overzicht
+
+De A<FDN> wordt bestuurd door drie bestuursorganen, namelijk
+=item haar A<Exec>,
+=item haar A<Super>,
+=item en haar A<Mem>.
+
+De A<FDN>, haar bestuursorganen, het lidmaatschap van de bestuursorganen als individuen en haar agenten zullen handelen volgens deze statuten en het reglement van de A<FDN>.
+
+Alle verkiezingen en stemmen zijn vertrouwelijk, alleen uitgebracht door de persoon met het recht om te stemmen, en mogen niet worden beïnvloed of gemandateerd door een andere persoon, organisatie of entiteit.
+
+=numitem Regelgeving
+
+Een lijst van de A<Reguls> van de A<FDN>'s is toegevoegd aan deze A<ArtAssoc>.
+
+De A<Exec> voert de A<Reguls> uit en handhaaft deze, behalve wanneer de handhaving van een A<Regul> in strijd is met de wetten van een land waar de werking van de handhaving plaatsvindt.
+
+=numitem Beslissingstypen
+
+Acties die het bestaan, de werking of de reputatie van de A<FDN> op welke manier dan ook beïnvloeden die moeten worden ondernomen, uitgevoerd, in gang worden gezet door functionarissen van de A<FDN> of een van haar agenten, worden toegewezen aan één van de volgende categorieën
+
+=item Operationeel
+=item Belangrijk
+=item Fundamenteel
+
+=numitem Standaard actietype
+
+Alle acties die de A<Exec> moeten ondernemen, zijn operationeel, behalve wanneer een actie een effect heeft dat in deze A<ArtAssoc> of in het A<Regul> is gespecificeerd als het resultaat van een "Belangrijke" of "Fundamentele" actie.
+
+=numitem Acties en actietypen
+
+Wijzigingen in deze A<ArtAssoc> vereisen een "Fundamentele" actie.
+
+Wijzigingen van het A<Regul> vereisen een "Belangrijke" actie.
+
+Een operationele actie kan worden herzien, omgezet of gewijzigd in een "Belangrijke" of "Fundamentele" actie op verzoek van een lid of groep leden van de A<Mem>, de A<Exec> of de A<Super> zoals uiteengezet in het A<Regul>. Een "Belangrijke" actie kan worden herzien, omgezet of gewijzigd door een "Fundamentele" actie zoals uiteengezet in het A<Regul>.
+
+=numitem Toestemming voor acties
+
+Voordat een actie wordt ondernomen, uitgevoerd of in gang gezet, moet de actie worden geformuleerd in een voorstel.
+
+Het type actie wordt bepaald in overeenstemming met de A<ArtAssoc> of het A<Regul>.
+
+Het voorstel wordt volgens het proces dat in het A<Regul> wordt gegeven naar het bestuursorgaan of de bestuursorganen gestuurd, waarbij een verzoek om toestemming of afkeuring binnen een redelijke termijn aan de A<Exec> wordt teruggestuurd, zoals uiteengezet in het A<Regul>.
+
+=numitem Toestemming voor "Operationele" actie
+
+Een "Operationele" actie heeft toestemming wanneer een meerderheid van de leden van de A<Exec> die aanwezig zijn in een quorum hebbende vergadering stemt voor het ondernemen of uitvoeren van de actie. Een quorum hebbende vergadering van de A<Exec> is vastgelegd in het A<Regul>.
+
+Een "Operationele" actie kan worden geformuleerd en goedgekeurd binnen dezelfde quorum hebbende vergadering van de A<Exec>.
+
+Een "Operationele" actie kan worden ondernomen met behulp van een noodproces, dat in het A<Regul> wordt uiteengezet.
+
+=numitem Toestemming voor een "Belangrijke" actie
+
+Een "Belangrijke" actie heeft toestemming wanneer
+=item wanneer een meerderheid van de leden van de Raad van Bestuur die aanwezig zijn in een quorum hebbende vergadering toestemming geeft, EN
+=item een meerderheid van de reagerende leden van de A<Super> toestemming geeft, op voorwaarde dat vijfentwintig procent van alle leden van de A<Super> heeft gereageerd, met behulp van het proces dat is uiteengezet in het A<Regul>.
+
+=numitem Toestemming voor een "Fundamentele" actie
+
+Een "Fundamentele" actie heeft toestemming wanneer
+=item wanneer een meerderheid van de leden van de Raad van Bestuur die aanwezig zijn in een quorum hebbende vergadering toestemming geeft, EN
+=item een meerderheid van de reagerende leden van de A<Super> toestemming geeft, op voorwaarde dat veertig procent van alle leden van de A<Super> heeft gereageerd, met behulp van het proces dat is uiteengezet in het A<Regul>, EN
+=item een meerderheid van de reagerende leden van de A<Mem> toestemming geeft, op voorwaarde dat twintig procent van alle leden van de A<Mem> heeft gereageerd, met behulp van het proces dat is uiteengezet in het A<Regul>.
+
+=head De A<Exec>
+
+=numitem Aantal leden
+
+De A<Exec> bestaat uit een ongelijk aantal natuurlijke personen (leden), zoals gedefinieerd in het A<Regul>, op voorwaarde dat het aantal niet minder dan drie en niet meer dan 19 is.
+
+=numitem Bevoegdheden van de A<Exec>
+=item De A<Exec> is belast met het beheer van de A<FDN>, inclusief het beheer van haar onderneming(en) en eigendommen.
+=item De A<Exec> is bevoegd om te besluiten overeenkomsten aan te gaan en geregistreerd of ander onroerend goed te verwerven, te vervreemden of te bezwaren.
+=item De A<Exec> is bevoegd om overeenkomsten en contracten aan te gaan waarbij de A<FDN> zich verbindt als borg of als hoofdelijke schuldenaar, nakoming door een derde garandeert en zekerheid stelt voor een schuld van een derde.
+
+=numitem Vertegenwoordiging van de A<FDN>
+
+De A<FDN> wordt uitsluitend vertegenwoordigd door de A<Exec>.
+
+Als gevolg van een "Operationele" actie kan de A<Exec> haar vertegenwoordiging, maar niet in plaats van de A<Exec>, delegeren aan een of meer leden van de A<Exec> of de A<Super>.
+
+=numitem Vergaderingen, notulen en acties
+
+De vergaderingen van de A<Exec>, het proces van notuleren en de reguliere werking van de A<Exec> zijn uiteengezet in het A<Regul>.
+
+=numitem Verkiezingsproces
+
+De A<Exec> wordt elk jaar als volgt gekozen door de A<Mem>:
+=item De A<Exec> stelt een lijst op van de huidige leden met stemrecht; en bepaalt de deadline voor de ontvangst van de stembiljetten welke op een werkdag in de A<HQ> moet zijn, op of rond 21 maart.
+=item Een mededeling zoals gedefinieerd in het A<Regul> wordt uiterlijk op de laatste werkdag in de A<HQ> vóór 21 januari naar alle leden van de A<Mem> gestuurd met het verzoek aan elk lid om kandidaat te worden voor verkiezing in de A<Exec>. Er is geen nominatieproces of kwalificatie nodig, behalve een bereidheid om een jaar als lid van de A<Exec> te dienen.
+=item Een mededeling zoals gedefinieerd in het A<Regul> zal uiterlijk op de laatste werkdag voor 21 februari naar alle leden van de A<Mem> worden verzonden, waarin het lidmaatschap wordt geïnformeerd over de komende verkiezingen, de verkiezingsmethode, de deadline voor de ontvangst van stembiljetten en een lijst van de kandidaten voor de verkiezing van de A<Exec>.
+=item Elk lid van de A<Mem> wordt aangemoedigd om een stembiljet in te sturen met behulp van het proces dat wordt beschreven in de A<Regul>.
+=item Aan het einde van de dag in de A<HQ> op de dag van de deadline worden de stemmen geteld zoals hieronder gedefinieerd, en de kandidaten die de meeste stemmen ontvangen, zoals hieronder gedefinieerd, worden beschouwd als de leden van de A<Exec>, met ingang van 21 april.
+=item De leden van de A<Exec> dienen van 21 april in het ene jaar tot 20 april in het volgende jaar.
+
+=numitem Het tellen van stemmen
+
+Alle stembiljetten van leden die op of voor de dag van de deadline zijn ontvangen, worden als volgt gecontroleerd op geldigheid:
+=item Elk stembiljet dat door een lid wordt ingestuurd, bestaat uit het aantal namen dat is geselecteerd uit de lijst met kandidaten, zoals het A<Regul> specificeert voor het aantal leden van de A<Exec>.
+=item In het geval van een dubbele kandidaat-naam, wordt er slechts één als geldig beschouwd en worden de duplicaten ongeldig verklaard.
+=item In het geval van een naam die is opgenomen in een stembiljet dat niet op de kandidatenlijst staat, wordt die naam ongeldig verklaard.
+=item In het geval van meer dan het opgegeven aantal geldige kandidatennamen, worden de eerst voorkomende van het opgegeven aantal als geldig beschouwd en wordt de rest ongeldig verklaard.
+
+De geldige stemmen die voor elke kandidaat worden uitgebracht, worden geteld, waarbij elke geldige stem als gelijkwaardig wordt beschouwd zonder verwijzing naar de positie op de lijst.
+
+=numitem Bepaling van de leden van de A<Exec>
+
+De kandidaten tot het aantal leden van de Raad van Bestuur met de meeste stemmen worden vanaf 21 april tot lid van de Raad van Bestuur verklaard.
+
+In het geval dat meer kandidaten de topposities hebben dan er leden van de A<Exec> zijn die in het A<Regul> zijn vermeld omdat twee of meer kandidaten hetzelfde aantal stemmen hebben, dan worden één of meer kandidaten willekeurig getrokken uit de groep kandidaten die hetzelfde aantal stemmen delen totdat het aantal leden van de A<Exec> zoals gespecificeerd in het A<Regul> is gekozen.
+
+=numitem Eerste vergadering
+
+Zo snel mogelijk na de bepaling van de leden van de A<Exec>, regelt het lid met de meeste stemmen de eerste vergadering van de A<Exec>, die zal worden gehouden zoals uiteengezet in het Reglement, en zal plaatsvinden op 21 april, of zo snel mogelijk na 21 april.
+
+=numitem Functionarissen
+
+Tijdens de eerste vergadering van de A<Exec> kiezen de leden hun functionarissen zoals gedefinieerd in het A<Regul>, met tenminste
+
+=item een voorzitter,
+=item een secretaris,
+=item een penningmeester.
+
+=numitem Bevoegdheden van functionarissen
+
+Alle documenten van de A<FDN> moeten gezamenlijk worden ondertekend door de voorzitter en de secretaris. Alle documenten met betrekking tot financiën moeten ook worden ondertekend door de penningmeester.
+
+De secretaris is de contactpersoon voor de A<FDN> voor alle zaken.
+
+Functionarissen hebben alleen de bevoegdheden zoals uiteengezet in deze A<ArtAssoc> of in de A<Regul>.
+
+=numitem Termijn
+
+Een persoon wordt voor één jaar gekozen in de A<Exec>, waarna de persoon geen lid meer is van de A<Exec>, tenzij de persoon wordt herkozen.
+
+=numitem Beëindiging van het lidmaatschap van de A<Exec>
+
+Een lid van de A<Exec> kan ophouden lid te zijn omdat het individu
+
+=item sterft of arbeidsongeschikt wordt door ziekte of ongeval;
+=item schriftelijk ontslag neemt (zich terugtrekt);
+=item onder curatele is gesteld;
+=item door de rechtbank wordt verwijderd, op grond van artikel 2.298 van het Burgerlijk Wetboek.
+
+Een lid van de A<Exec> wordt alleen verwijderd als gevolg van een "Belangrijke" actie.
+
+=numitem Invullen van een vacature
+
+In geval van een vacature in de A<Exec>, wordt de vacature ingevuld door de kandidaat met de eerstvolgende meeste stemmen als gevolg van de verkiezing die voor het lopende jaar is gehouden.
+
+In the event of a vacancy on the A<Exec>, the vacancy shall be filled by the Candidate with the next most votes as a result of the election carried out for the current year.
+
+=item In het geval dat twee of meer kandidaten de volgende meeste stemmen hebben, wordt de kandidaat die de vacature invult willekeurig uit hen gekozen.
+
+=numitem Beloning van de A<Exec>
+
+De leden van de A<Exec> ontvangen géén vergoeding voor hun activiteiten. Echter, voor zover de activa van de A<FDN> dit toelaten, hebben zij recht op een vergoeding voor de kosten die zij hebben gemaakt bij de uitvoering van hun taken.
+
+=numitem Gedragscode
+
+Elk lid van de A<Exec> wordt geacht gehouden te zijn aan de Gedragscode die in de A<Regul> wordt uiteengezet.
+
+=head A<Super>
+=numitem De A<Super> bestaat uit leden die algemeen worden gerespecteerd door de A<Mem>.
+=numitem Een lid van de A<Super> wordt benoemd als gevolg van een "Belangrijke" actie.
+=numitem Beëindiging van het lidmaatschap van de A<Super>
+
+Een lid van de A<Super> kan ophouden lid te zijn omdat het individu
+=item sterft of arbeidsongeschikt wordt door ziekte of ongeval;
+=item schriftelijk ontslag neemt (zich terugtrekt);
+=item onder curatele is gesteld;
+=item door de rechtbank wordt verwijderd, op grond van artikel 2.298 van het Burgerlijk Wetboek.
+
+Een lid van de A<Super> wordt alleen verwijderd als gevolg van een "Belangrijke" actie.
+
+=numitem Beloning A<Super>c
+
+De leden van de A<Super> ontvangen géén vergoeding voor hun activiteiten. Echter, voor zover de activa van de A<FDN> dit toelaten, hebben zij recht op een vergoeding voor de kosten die zij hebben gemaakt bij de uitvoering van hun taken.
+
+=numitem Bevoegdheden van de A<Super> en haar ledene
+
+De A<Super> bestaat om de A<Exec> te begeleiden en te controleren. Alle leden van de A<Super> kunnen stemmen over "Belangrijke" en "Fundamentele" acties. Elk lid heeft één stem op een enkele actie.
+
+Wanneer A<ForceImp> of meer leden van de A<Super> gezamenlijk aan de A<Exec> kennisgeven, kunnen xzij eisen dat een reeds genomen of voorgestelde "Operationele" actie van de A<Exec> wordt omgezet in een "Belangrijke" actie. De A<Exec> is dan verplicht om de werking of uitvoering van de "Operationele" Actie uit te stellen en de toestemming te verkrijgen die nodig is voor een "Belangrijke" actie. Als de toestemming niet wordt verkregen, moet de actie worden gewijzigd en moet toestemming worden gevraagd als een "Belangrijke" actie.
+
+=numitem Gedragscode
+
+Elk lid van de A<Super> wordt geacht gehouden te zijn aan de Gedragscode die in de A<Regul> wordt uiteengezet.
+
+=head De A<Mem>
+
+=numitem Geschiktheid voor lidmaatschap
+
+Alleen natuurlijke personen kunnen lid worden van de A<FDN>.
+
+=numitem Lidmaatschapscategorieën
+
+Er kunnen een of meer categorieën van lidmaatschap zijn zoals uiteengezet in het A<Regul>. Categorieën zullen verschillen afhankelijk van de kwalificaties voor lidmaatschap en mogelijk te betalen vergoedingen.
+
+Elk individueel lid, ongeacht de lidmaatschapscategorie, heeft één stem in elke verkiezings- of stemprocedure.
+
+=numitem Lid worden
+
+Een natuurlijk persoon die voldoet aan de kwalificaties voor een lidmaatschapscategorie, zoals uiteengezet in het A<Regul>, dient zich te melden bij de secretaris van de A<Exec>. Het lidmaatschap begint vanaf de datum waarop de secretaris de aanvraag ontvangt, op voorwaarde dat de persoon voldoet aan de kwalificaties voor de lidmaatschapscategorie.
+
+=numitem Lidmaatschapskosten
+
+Lidmaatschapskosten worden vastgelegd in het A<Regul> en kunnen naar eigen goeddunken door de A<Exec> naar eigen goeddunken worden verdisconteerd of kwijtgescholden, bijvoorbeeld omdat het lid een student is, geen besteedbaar inkomen heeft, een productieve bijdrage levert aan de A<RP>, op voorwaarde dat de reden voor de vrijstelling of korting bekend wordt gemaakt aan het lidmaatschap.
+
+=numitem Lidmaatschapskosten zijn donaties
+
+Lidmaatschapskosten zijn donaties aan de A<FDN> en kunnen na betaling niet worden terugbetaald.
+
+=numitem Lidmaatschapsrechten
+
+Een lid heeft het recht om deel te nemen aan alle verkiezingen en om te stemmen wanneer toestemming wordt gevraagd voor "Belangrijke" en "Fundamentele" acties. Elk lid heeft één stem bij elke verkiezing. Zodra een stem is uitgebracht, kan deze niet worden gewijzigd, tenzij een proces hiervoor is uiteengezet in de A<Regul>.
+
+=numitem Lidmaatschapsrechten
+
+Van elk lid wordt verwacht dat het zich houdt aan de Gedragscode, die in de A<Regul> wordt uiteengezet.
+
+Elk lid moet de minimale persoonlijke, beschrijvende contactgegevens verstrekken zoals uiteengezet in het A<Regul> om een ledenlijst bij te houden.
+
+=numitem Beëindiging van het lidmaatschap
+
+Een individu houdt op lid te zijn als het individu
+=item sterft of arbeidsongeschikt wordt door ziekte of ongeval;
+=item schriftelijk ontslag neemt (zich terugtrekt);
+=item onder curatele is gesteld;
+=item wordt uitgezet voor het niet naleven van de Gedragscode zoals uiteengezet in het A<Regul>, na de uitzettingsprocedure uiteengezet in A<Regul>.
+
+=numitem Ledenlijst
+
+De A<Exec> houdt een actuele lijst bij van de A<Mem>, samen met persoonlijke, beschrijvende en contactgegevens zoals uiteengezet in het A<Regul>.
+
+De informatie wordt bewaard in overeenstemming met de privacywetgeving van Nederland.
+
+Noch de A<Exec>, noch een van haar vertegenwoordigers, zal enige informatie over een lid delen, tenzij a) zij de uitdrukkelijke toestemming van het lid heeft, of b) daartoe wordt gedwongen volgens de wetten van Nederland.
+
+=head Wijziging van de A<ArtAssoc>
+=numitem
+
+De A<ArtAssoc> worden alleen gewijzigd, toegevoegd of aangepast als gevolg van een "Fundamentele" actie.
+
+Het voorstel voor een dergelijke actie kan worden gedaan door elk lid van de A<FDN>.
+
+=numitem
+
+De A<Exec> is verplicht een afschrift van de akte van wijziging, evenals de gewijzigde A<ArtAssoc> te deponeren bij het kantoor van het Handelsregister dat wordt gehouden door de bij wet aangestelde bevoegde Kamer van Koophandel en Industrie.
+
+=head Wijziging van de A<Regul>
+=numitem
+
+Het A<Regul> wordt alleen gewijzigd, toegevoegd of aangepast als gevolg van een "Belangrijke" actie.
+
+Het voorstel voor een dergelijke actie kan worden gedaan door elk lid van de A<FDN>.
+
+=head Financieel jaar, jaarverslag en jaarrekeningen
+=numitem Periods
+
+Het boekjaar van de A<FDN> is hetzelfde als het kalenderjaar.
+
+=numitem Gegevensbewaring
+
+De A<Exec> is verplicht om de financiële toestand van de A<FDN> op een zodanige manier bij te houden, zulks in overeenstemming met de vereisten die voortvloeien uit deze activiteiten en om de boeken, documenten, correspondentie, computerbestanden en andere bijbehorende gegevensdragers zodanig te bewaren dat de activa, de rechten en verplichtingen van de A<FDN> te allen tijde kunnen worden geïnspecteerd.
+
+=numitem Financiële rapportage
+
+Onverminderd wat bij wet anders is bepaald, is de A<Exec> verplicht om elk jaar de balans en de winst- en uitgavenrekening van de A<FDN> op te stellen en op papier te zetten voordat het nieuwe bestuur wordt geïnstalleerd. In het geval dat de A<FDN> één of meer ondernemingen onderhoudt, die volgens de wet moeten worden opgenomen in het handelsregister van de Kamer van Koophandel, worden de netto-omzet en de winst of het verlies van elke onderneming vermeld in de rekening van de inkomsten en uitgaven.
+
+=numitem Archivering
+
+De A<Exec> is verplicht de boeken, documenten, correspondentie, computerbestanden en andere gegevensdragers waarnaar wordt verwezen in artikel 'Financiële rapportage' en artikel 'Gegevensbewaring' A<RptArch> jaar te bewaren.
+
+De gegevens die op een gegevensdrager zijn opgeslagen, met uitzondering van de balans en de rekening van inkomsten en uitgaven die op papier zijn geplaatst, kunnen worden overgedragen aan en bewaard op een andere gegevensdrager, op voorwaarde dat de overdracht plaatsvindt met een correcte en volledige weergave van de gegevens en dat deze gegevens beschikbaar zullen zijn gedurende de tijd dat ze moeten worden bewaard en altijd leesbaar zijn.
+
+=head Ontbinding en liquidatie
+=numitem
+
+De A<FDN> zal alleen worden ontbonden als gevolg van een "Fundamentelei" actie.
+
+Na haar ontbinding zal de A<FDN> blijven bestaan voor zover nodig is voor de liquidatie van haar activa.
+
+De liquidatie wordt uitgevoerd door het A<Exec>.
+
+De A<Exec> ziet erop toe dat de ontbinding van de A<FDN> wordt opgenomen in het Handelsregister van de Kamer van Koophandel.
+
+Tijdens de liquidatie blijven de bepalingen van de A<ArtAssoc> zoveel mogelijk van kracht.
+
+Een overschot aan liquidatie van de ontbonden A<FDN> zal zoveel mogelijk worden besteed in overeenstemming met het doel van de A<FDN>. Resoluties moeten unaniem aangenomen worden.
+
+Aan het einde van de liquidatie worden de boeken, rekeningen, documenten en andere gegevensdragers van de ontbonden A<FDN> voor tien jaar in bewaring genomen door een door de A<Exec> benoemde curator, waardoor de veiligheid, leesbaarheid en bruikbaarheid worden gewaarborgd.
+
+=end rakudoc
