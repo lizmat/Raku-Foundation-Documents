@@ -66,7 +66,7 @@ b. a director has free control over his assets;
 c. a director is not a member of the Supervisory Board;
 d. a director has not been dismissed by the court as a director of a foundation in the last five years.
 
-At most half of the number of directors may have a family relationship
+4. At most half of the number of directors may have a family relationship
 with another director. A director may not have a family relationship with
 a member of the Supervisory Board. A family relationship is understood to
 mean blood or affinity up to and including the fourth degree and the
@@ -76,7 +76,11 @@ status of spouse, registered partner, or other life partner.
 
 6. All directors may receive reimbursement for the costs they have reasonably incurred in the performance of their duties.
 
-The directors receive no remuneration for their work.
+The directors receive no remuneration for their work as a director.
+
+A director's fee may be provided as a type of volunteer allowance, but
+this must not be excessive and must be proportionate to the work and the
+financial situation of the foundation and in accordance to the regulations.
 
 7. A director may be suspended by the Supervisory Board.
 
@@ -413,7 +417,7 @@ the Supervisory Board.
 
 4. A decision by the Supervisory Board to grant approval for an amendment to the Articles of Association, merger, division, conversion, or dissolution as referred to in Articles 13 to 15 inclusive, shall be taken by a majority of at least two-thirds of the votes cast in a meeting in which all members of the Supervisory Board are present or represented.
 
-5. A member of the Supervisory Board shall not participate in the deliberations and decision-making if he has a direct or indirect personal interest therein that conflicts with the interest of the foundation and the organization affiliated with it.
+5. A member of the Supervisory Board shall not participate in the decision-making if he has a direct or indirect personal interest therein that conflicts with the interest of the foundation and the organization affiliated with it.
 
 If the Supervisory Board is unable to take a decision as a result, the
 member of the Supervisory Board concerned is nevertheless authorized
