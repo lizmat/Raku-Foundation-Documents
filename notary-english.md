@@ -38,24 +38,24 @@ Article 3 - Executive Board: Composition, Appointment, Remuneration, Dismissal
 
 1. The Executive Board of the foundation consists of three or more natural persons.
 
-The meeting of participants determines the number of board members.
+The meeting of participants determines the number of Executive Board members.
 
-A board that is not fully constituted retains its powers.
+An Executive Board that is not fully constituted retains its powers.
 
-2. The board members are appointed by the Supervisory Board upon nomination by the meeting of participants.
+2. The Executive Board members are appointed by the Supervisory Board upon nomination by the meeting of participants.
 
-The board shall inform the meeting of participants as soon as possible of the occurrence of a vacancy on the board.
+The Executive Board shall inform the meeting of participants as soon as possible of the occurrence of a vacancy on the Executive Board.
 
-The nomination for the appointment of a board member shall be submitted
-in writing to the board. A nomination shall contain at least two persons
-for each vacancy to be filled. For each candidate, in any case, his age,
-his profession, and the positions he holds and has held shall be
-communicated insofar as these are relevant in connection with the
+The nomination for the appointment of an Executive Board member shall be
+submitted in writing to the Executive Board. A nomination shall contain at
+least two persons for each vacancy to be filled. For each candidate, in any
+case, his age, his profession, and the positions he holds and has held shall
+be communicated insofar as these are relevant in connection with the
 performance of his duties.
 
-The board is free in the appointment if the meeting of participants has
-not submitted the nomination in writing to the board no later than three
-months after the vacancy to be filled has arisen.
+The Executive Board is free in the appointment if the meeting of
+participants has not submitted the nomination in writing to the Executive
+Board no later than three months after the vacancy to be filled has arisen.
 
 3. A director must meet the following requirements:
 
@@ -119,12 +119,14 @@ seven days, excluding the day of the convening and the day of the
 meeting.
 
 The director who has provided an address to the foundation for this
-purpose made, may be convened to the meetings of the board by a
+purpose made, may be convened to the meetings of the Executive Board by a
 legible and reproducible message sent electronically to that address.
 
-3. The meetings of the board shall be held at the place to be determined by the person convening the meeting.
+3. The meetings of the Executive Board shall be held at the place to be
+determined by the person convening the meeting.
 
-4. If any provision of the two preceding paragraphs is violated, the board may nevertheless take legally valid decisions if all directors are present or represented at the meeting.
+4. If any provision of the two preceding paragraphs is violated, the
+Executive Board may nevertheless take legally valid decisions if all directors are present or represented at the meeting.
 
 5. A director may grant written power of attorney to another director to be represented at the meeting.
 
@@ -132,7 +134,7 @@ An electronically recorded power of attorney counts as a written power of attorn
 
 A director may not represent more than one fellow director at the meeting.
 
-6. If the board so decides, directors may exercise their meeting rights via an electronic means of communication.
+6. If the Executive Board so decides, directors may exercise their meeting rights via an electronic means of communication.
 
 The director participating in the meeting in this manner must at least
 be able to be identified via the electronic means of communication:
@@ -167,13 +169,17 @@ majority of votes prescribed for that decision.
 
 9. A director shall not participate in the deliberations and decision-making if he has a direct or indirect personal interest that conflicts with the interest of the foundation and the organization affiliated with it.
 
-If, as a result, no board decision can be taken, the decision shall be
-taken by the Supervisory Board.
+If, as a result, no Executive Board decision can be taken, the decision
+shall be taken by the Supervisory Board.
 
 ## Article 5 - Conduct of meetings, minutes, decision-making outside meetings
 
-1. The chairperson presides over the meetings of the board. In his absence, the meeting itself provides for its own leadership.
+1. The chairperson presides over the meetings of the board.
+
+In his absence, the meeting itself provides for its own leadership.
+
 2. The chairperson of the meeting determines the manner in which votes are held in the meetings.
+
 3. The judgment expressed by the chairperson of the meeting regarding the outcome of a vote is decisive.
 
 The same applies to the content of a decision taken, insofar as a vote
@@ -184,7 +190,7 @@ or, if the original vote did not take place by roll call or in writing,
 a voting member present so requests. This new vote supposes the legal
 consequences of the original vote.
 
-4. Minutes of the proceedings of the meetings of the board shall be kept by the person designated for that purpose by the chairperson of the meeting.
+4. Minutes of the proceedings of the meetings of the Executive Board shall be kept by the person designated for that purpose by the chairperson of the meeting.
 
 The minutes are signed by the chairman and the minute-taker of the
 meeting after they have been adopted.
