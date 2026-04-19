@@ -38,24 +38,26 @@ Article 3 - Executive Board: Composition, Appointment, Remuneration, Dismissal
 
 1. The Executive Board of the foundation consists of three or more natural persons.
 
-The meeting of participants determines the number of board members.
+The regulations determine the actual number of Executive Board members.
 
-A board that is not fully constituted retains its powers.
+The Secretary and the Treasurer of the foundation must be members of the Executive Board.
 
-2. The board members are appointed by the Supervisory Board upon nomination by the meeting of participants.
+An Executive Board that is not fully constituted retains its powers.
 
-The board shall inform the meeting of participants as soon as possible of the occurrence of a vacancy on the board.
+2. The Executive Board members are appointed by the Supervisory Board upon nomination by the meeting of participants.
 
-The nomination for the appointment of a board member shall be submitted
-in writing to the board. A nomination shall contain at least two persons
-for each vacancy to be filled. For each candidate, in any case, his age,
-his profession, and the positions he holds and has held shall be
-communicated insofar as these are relevant in connection with the
+The Executive Board shall inform the meeting of participants as soon as possible of the occurrence of a vacancy on the Executive Board.
+
+The nomination for the appointment of an Executive Board member shall be
+submitted in writing to the Executive Board. A nomination shall contain at
+least two persons for each vacancy to be filled. For each candidate, in any
+case, his age, his profession, and the positions he holds and has held shall
+be communicated insofar as these are relevant in connection with the
 performance of his duties.
 
-The board is free in the appointment if the meeting of participants has
-not submitted the nomination in writing to the board no later than three
-months after the vacancy to be filled has arisen.
+The Executive Board is free in the appointment if the meeting of
+participants has not submitted the nomination in writing to the Executive
+Board no later than three months after the vacancy to be filled has arisen.
 
 3. A director must meet the following requirements:
 
@@ -65,11 +67,10 @@ c. a director is not a member of the Supervisory Board;
 d. a director has not been dismissed by the court as a director of a foundation in the last five years.
 
 At most half of the number of directors may have a family relationship
-with another director. A director may not have a family relationship
-with a member of the Supervisory Board. A family relationship is
-understood to mean blood or affinity up to and including the fourth
-degree and the capacity of spouse, registered partner or other life
-partner.
+with another director. A director may not have a family relationship with
+a member of the Supervisory Board. A family relationship is understood to
+mean blood or affinity up to and including the fourth degree and the
+status of spouse, registered partner, or other life partner.
 
 5. Directors are appointed for an indefinite period, unless otherwise stated in the regulations.
 
@@ -119,20 +120,23 @@ seven days, excluding the day of the convening and the day of the
 meeting.
 
 The director who has provided an address to the foundation for this
-purpose made, may be convened to the meetings of the board by a
+purpose made, may be convened to the meetings of the Executive Board by a
 legible and reproducible message sent electronically to that address.
 
-3. The meetings of the board shall be held at the place to be determined by the person convening the meeting.
+3. The meetings of the Executive Board shall be held at the place to be
+determined by the person convening the meeting.
 
-4. If any provision of the two preceding paragraphs is violated, the board may nevertheless take legally valid decisions if all directors are present or represented at the meeting.
+4. If any provision of the two preceding paragraphs is violated, the
+Executive Board may nevertheless take legally valid decisions if all
+directors are present or represented at the meeting.
 
 5. A director may grant written power of attorney to another director to be represented at the meeting.
 
 An electronically recorded power of attorney counts as a written power of attorney.
 
-A director may not represent more than one fellow director at the meeting.
+A director may not represent more than one fellow director at the meeting.  Such representation will count towards reaching quorum.
 
-6. If the board so decides, directors may exercise their meeting rights via an electronic means of communication.
+6. Directors may exercise their meeting rights via an electronic means of communication.
 
 The director participating in the meeting in this manner must at least
 be able to be identified via the electronic means of communication:
@@ -141,9 +145,12 @@ be able to be identified via the electronic means of communication:
 - to be able to take direct note of the deliberations in the meetings and to be able to speak in the meeting;
 - to be able to exercise the right to vote.
 
-The Executive Board may impose further conditions on the use of the electronic means of communication. If further conditions are imposed, these shall be announced in the notice convening the meeting.
+The Executive Board may impose further conditions on the use of the
+electronic means of communication. If further conditions are imposed,
+these shall be announced in the notice convening the meeting.
 
-A director who participates in a meeting via an electronic means of communication shall be deemed to be present at the meeting.
+A director who participates in a meeting via an electronic means of
+communication shall be deemed to be present at the meeting.
 
 7. In the meetings of the Executive Board, each director has one vote.
 
@@ -167,14 +174,18 @@ majority of votes prescribed for that decision.
 
 9. A director shall not participate in the deliberations and decision-making if he has a direct or indirect personal interest that conflicts with the interest of the foundation and the organization affiliated with it.
 
-If, as a result, no board decision can be taken, the decision shall be
-taken by the Supervisory Board.
+If, as a result, no Executive Board decision can be taken, the decision
+shall be taken by the Supervisory Board.
 
 ## Article 5 - Conduct of meetings, minutes, decision-making outside meetings
 
-1. The chairperson presides over the meetings of the board. In his absence, the meeting itself provides for its own leadership.
+1. The chairperson presides over the meetings of the Executive Board.
+
+In his absence, the meeting itself provides for its own leadership.
+
 2. The chairperson of the meeting determines the manner in which votes are held in the meetings.
-3. The judgment expressed by the chairperson of the meeting regarding the outcome of a vote is decisive.
+
+3. The judgment pronounced by the chairman of the meeting at the meeting regarding the outcome of a vote is decisive.
 
 The same applies to the content of a decision taken, insofar as a vote
 was held on a proposal that was not recorded in writing. If the accuracy
@@ -184,7 +195,7 @@ or, if the original vote did not take place by roll call or in writing,
 a voting member present so requests. This new vote supposes the legal
 consequences of the original vote.
 
-4. Minutes of the proceedings of the meetings of the board shall be kept by the person designated for that purpose by the chairperson of the meeting.
+4. Minutes of the proceedings of the meetings of the Executive Board shall be kept by the person designated for that purpose in the meeting.
 
 The minutes are signed by the chairman and the minute-taker of the
 meeting after they have been adopted.
@@ -253,7 +264,7 @@ of the Supervisory Board if the Supervisory Board so requests.
 2. The Executive Board is not authorized to decide to enter into agreements for the acquisition, alienation, and encumbrance of registered real estate, nor to enter into agreements in which the foundation binds itself as surety or jointly and severally liable debtor, makes a commitment on behalf of a third party, or binds itself to providing security for a debt of a third party.
 
 This limitation on the Executive Board's authority may be invoked
-against third parties.
+by third parties.
 
 3. Bequests may only be accepted subject to the benefit of inventory.
 
@@ -310,11 +321,11 @@ c. a member of the Supervisory Board is not a director of the foundation and als
 e. a member of the Supervisory Board has not been a director of the foundation in the past three years;
 f. a member of the Supervisory Board has not been dismissed by the court as a director of a foundation in the last five years.
 
-A member of the Supervisory Board may not have a family relationship
-with a director or with another member of the Supervisory Board. Family
+A member of the Supervisory Board may not have a family relationship with
+a director or with another member of the Supervisory Board. A family
 relationship is understood to mean blood or affinity up to and including
-the fourth degree and the capacity of spouse, registered partner or other
-life partner.
+the fourth degree and the status of spouse, registered partner or other life
+partner.
 
 4. The members of the Supervisory Board are appointed for a period of at most four years.
 
@@ -482,36 +493,36 @@ the reason for this shall be stated on the documents.
 
 ## Article 12 - Regulations
 
-1. The Executive Board may adopt one or more regulations.
+1. The Executive Board may adopt any number of rules.
 
-A regulation shall contain rules or further rules that the Board deems
-necessary for the performance of its task. A regulation may never
-conflict with the Articles of Association, the law, or a regulation of
-the Supervisory Board.
+The regulations shall contain rules that the Executive Board deems
+necessary for the performance of its task. A rule may never conflict
+with the Articles of Association, any of the other rules, or the law.
 
-The Executive Board may amend and also revoke any regulation made by it.
+The Executive Board may amend and also revoke any rule made by it.
 
-2. The Supervisory Board may adopt one or more regulations.
+2. The Supervisory Board may adopt any number of rules.
 
-A regulation shall contain rules or further rules that the Supervisory
-Board deems necessary for the performance of its task. A regulation
-may never conflict with the Articles of Association and/or the law.
+The regulations shall contain rules that the Supervisory Board deems
+necessary for the performance of its task. A rule may never conflict
+with the Articles of Association, any of the other rules, or the law.
 
-The Supervisory Board may amend and also revoke any regulation made by it.
+The Supervisory Board may amend and also revoke any rules made by it.
 
-3. The Supervisory Board and the Executive Board may jointly adopt one or more regulations.
+3. The Supervisory Board and the Executive Board may jointly adopt one or more rules.
 
-A regulation shall contain rules or further rules that the Supervisory
-Board and the Executive Board deem necessary for the performance of their
-joint tasks. Regulations may never conflict with the Articles of Association
-and/or the law.
+The regulations shall contain rules that the Supervisory Board and the
+Executive Board both deem necessary for the performance of their joint
+tasks. Rules may never conflict with the Articles of Association, any
+of the other rules, or the law.
 
 The Supervisory Board and the Executive Board may jointly amend and also
-revoke all regulations made by them.
+revoke all rules made by them.
 
-4. Regulations shall be recorded in writing, stating the day on which they enter into force.
+4. A rule in a regulation shall be recorded in writing, stating the day on which they enter into force.
 
-This date cannot be prior to the date on which the decision was taken.
+This date cannot be prior to the date on which the decision to add or amend
+the rule was taken.
 
 ## Article 13 - Amendment of Articles of Association
 
