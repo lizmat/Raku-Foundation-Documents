@@ -3,7 +3,7 @@
 ## Artikel 1 - Naam en Zetel
 
 1. De naam van de stichting is: Stichting Raku Foundation.
-2. De stichting is gevestigd in de gemeente Maastricht.
+2. De stichting is gevestigd in de gemeente Echt-Susteren.
 3. De stichting heeft de volgende organen:
 
 - het bestuur;
