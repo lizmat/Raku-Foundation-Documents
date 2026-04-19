@@ -65,11 +65,10 @@ c. a director is not a member of the Supervisory Board and has not been a member
 d. a director has not been dismissed by the court as a director of a foundation in the last five years.
 
 At most half of the number of directors may have a family relationship
-with another director. A director may not have a family relationship
-with a member of the Supervisory Board. A family relationship is
-understood to mean blood or affinity up to and including the fourth
-degree and the capacity of spouse, registered partner or other life
-partner.
+with another director. A director may not have a family relationship with
+a member of the Supervisory Board. A family relationship is understood to
+mean blood or affinity up to and including the fourth degree and the
+status of spouse, registered partner, or other life partner.
 
 5. Directors are appointed for an indefinite period.
 
@@ -143,9 +142,12 @@ be able to be identified via the electronic means of communication:
 - to be able to take direct note of the deliberations in the meetings and to be able to speak in the meeting;
 - to be able to exercise the right to vote.
 
-The Executive Board may impose further conditions on the use of the electronic means of communication. If further conditions are imposed, these shall be announced in the notice convening the meeting.
+The Executive Board may impose further conditions on the use of the
+electronic means of communication. If further conditions are imposed,
+these shall be announced in the notice convening the meeting.
 
-A director who participates in a meeting via an electronic means of communication shall be deemed to be present at the meeting.
+A director who participates in a meeting via an electronic means of
+communication shall be deemed to be present at the meeting.
 
 7. In the meetings of the Executive Board, each director has one vote.
 
@@ -180,7 +182,7 @@ In his absence, the meeting itself provides for its own leadership.
 
 2. The chairperson of the meeting determines the manner in which votes are held in the meetings.
 
-3. The judgment expressed by the chairperson of the meeting regarding the outcome of a vote is decisive.
+3. The judgment pronounced by the chairman of the meeting at the meeting regarding the outcome of a vote is decisive.
 
 The same applies to the content of a decision taken, insofar as a vote
 was held on a proposal that was not recorded in writing. If the accuracy
@@ -252,7 +254,7 @@ of the Supervisory Board if the Supervisory Board so requests.
 2. The Executive Board is not authorized to decide to enter into agreements for the acquisition, alienation, and encumbrance of registered real estate, nor to enter into agreements in which the foundation binds itself as surety or jointly and severally liable debtor, makes a commitment on behalf of a third party, or binds itself to providing security for a debt of a third party.
 
 This limitation on the Executive Board's authority may be invoked
-against third parties.
+by third parties.
 
 3. Bequests may only be accepted subject to the benefit of inventory.
 
@@ -309,11 +311,11 @@ c. a member of the Supervisory Board is not a director of the foundation and als
 e. a member of the Supervisory Board has not been a director of the foundation in the past three years;
 f. a member of the Supervisory Board has not been dismissed by the court as a director of a foundation in the last five years.
 
-A member of the Supervisory Board may not have a family relationship
-with a director or with another member of the Supervisory Board. Family
+A member of the Supervisory Board may not have a family relationship with
+a director or with another member of the Supervisory Board. A family
 relationship is understood to mean blood or affinity up to and including
-the fourth degree and the capacity of spouse, registered partner or other
-life partner.
+the fourth degree and the status of spouse, registered partner or other life
+partner.
 
 4. The members of the Supervisory Board are appointed for a period of at most four years.
 
@@ -483,8 +485,8 @@ the reason for this shall be stated on the documents.
 
 1. The Executive Board may adopt one or more regulations.
 
-A regulation shall contain rules or further rules that the Board deems
-necessary for the performance of its task. A regulation may never
+A regulation shall contain rules or further rules that the Executive Board
+deems necessary for the performance of its task. A regulation may never
 conflict with the Articles of Association, the law, or a regulation of
 the Supervisory Board.
 
