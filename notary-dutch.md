@@ -12,17 +12,17 @@
 ## Artikel 2 - Doel
 1. De stichting heeft als doel:
 
-het wereldwijd promoten en ondersteunen van de Raku Programming
-Language, een autoriteit te zijn bij het bepalen van de kwaliteit van software die
-is geschreven in de Raku Programming Language,
-en het verrichten van al wat hiermee verband houdt of daartoe bevorderlijk kan
-zijn.
+het wereldwijd promoten en ondersteunen van de Raku Programming Language,
+een autoriteit te zijn bij het bepalen van de kwaliteit van software die
+is geschreven in de Raku Programming Language, en het verrichten van al
+wat hiermee verband houdt of daartoe bevorderlijk kan zijn.
+
 Tot dit doel behoort niet het doen van uitkeringen aan de oprichter of aan hen
 die deel uitmaken van organen van de stichting.
 
 2. De stichting beoogt het algemeen nut.
 
-3.  De stichting heeft geen winstoogmerk.
+3. De stichting heeft geen winstoogmerk.
 
 4. De stichting tracht haar doel onder meer te bereiken door:
 
@@ -40,18 +40,17 @@ die deel uitmaken van organen van de stichting.
 De vergadering van deelnemers stelt het aantal bestuurders vast.
 Een niet-voltallig bestuur behoudt zijn bevoegdheden.
 
-2. De bestuurders worden benoemd door de raad van toezicht op voordracht van
-de vergadering van deelnemers.
+2. De bestuurders worden benoemd door de raad van toezicht op voordracht van de vergadering van deelnemers.
 
 Het bestuur informeert de vergadering van deelnemers zo spoedig mogelijk over
 het ontstaan van een vacature in het bestuur.
 
-De voordracht tot benoeming van
-een bestuurder wordt schriftelijk ingediend bij het bestuur. Een voordracht bevat
-voor elke te vervullen vacature ten minste twee personen. Van iedere kandidaat
-wordt in elk geval meegedeeld zijn leeftijd, zijn beroep en de betrekkingen die
-hij bekleedt en die hij heeft bekleed voor zover die van belang zijn in verband
-met de vervulling van zijn taak.
+De voordracht tot benoeming van een bestuurder wordt schriftelijk ingediend
+bij het bestuur. Een voordracht bevat voor elke te vervullen vacature ten
+minste twee personen. Van iedere kandidaat wordt in elk geval meegedeeld
+zijn leeftijd, zijn beroep en de betrekkingen die hij bekleedt en die hij
+heeft bekleed voor zover die van belang zijn in verband met de vervulling
+van zijn taak.
 
 Het bestuur is vrij in de benoeming als de vergadering van deelnemers de
 voordracht niet uiterlijk drie maanden na het ontstaan van de te vervullen
@@ -81,7 +80,10 @@ De bestuurders ontvangen geen beloning voor hun werkzaamheden.
 Na een schorsing wordt binnen vier weken een nieuwe vergadering van de raad
 van toezicht gehouden. In die vergadering wordt besloten of de schorsing wordt
 opgeheven, de schorsing wordt verlengd of de betreffende bestuurder wordt
-ontslagen. Een schorsing kan in totaal nooit langer dan drie maanden duren.
+ontslagen.
+
+Een schorsing kan in totaal nooit langer dan drie maanden duren.
+
 De schorsing vervalt als geen besluit tot verlenging wordt genomen binnen de
 hiervoor vermelde termijn van vier weken of als na verloop van drie maanden
 geen besluit tot ontslag van de betreffende bestuurder is genomen.
@@ -102,6 +104,7 @@ daartoe voor onbepaalde tijd aan te wijzen persoon tijdelijk met het bestuur
 belast.
 
 ## Artikel 4 - Bestuur: bijeenroeping, vergaderingen, besluitvorming
+
 1. Iedere bestuurder is bevoegd een vergadering van het bestuur bijeen te roepen.
 
 2. De bijeenroeping van de vergaderingen van het bestuur vindt schriftelijk plaats.
@@ -113,7 +116,6 @@ inachtneming van een termijn van ten minste zeven dagen, de dag van
 bijeenroeping en die van de vergadering niet meegerekend.
 
 De bestuurder die voor dit doel een adres aan de stichting bekend heeft
-
 gemaakt, kan tot de vergaderingen van het bestuur worden opgeroepen door een
 langs elektronische weg aan dat adres toegezonden leesbaar en reproduceerbaar
 bericht.
@@ -124,14 +126,12 @@ bericht.
 
 5. Een bestuurder kan aan een andere bestuurder schriftelijk volmacht verlenen om zich in de vergadering te laten vertegenwoordigen.
 
-Een elektronisch vastgelegde
-volmacht geldt als een schriftelijke volmacht.
+Een elektronisch vastgelegde volmacht geldt als een schriftelijke volmacht.
 
 Een bestuurder kan niet meer dan één medebestuurder in de vergadering
 vertegenwoordigen.
 
-6. Als het bestuur daartoe besluit, kunnen bestuurders hun vergaderrechten
-uitoefenen via een elektronisch communicatiemiddel.
+6. Als het bestuur daartoe besluit, kunnen bestuurders hun vergaderrechten uitoefenen via een elektronisch communicatiemiddel.
 
 De bestuurder die op deze wijze aan de vergadering deelneemt, moet minimaal
 via het elektronisch communicatiemiddel:
@@ -153,14 +153,11 @@ worden de besluiten door het bestuur genomen met volstrekte meerderheid van
 de uitgebrachte stemmen.
 
 Bij staking van stemmen over zaken is het voorstel verworpen.
+
 Staken de stemmen bij een stemming over de benoeming van personen, dan
 beslist het lot.
 
-8. Als voor het nemen van een besluit wordt vereist dat een bepaald aantal
-bestuurders aanwezig of vertegenwoordigd is en dit aantal niet bij de
-vergadering aanwezig of vertegenwoordigd was, wordt een nieuwe vergadering
-bijeengeroepen waarin het betreffende besluit opnieuw aan de orde wordt
-gesteld.
+8. Als voor het nemen van een besluit wordt vereist dat een bepaald aantal bestuurders aanwezig of vertegenwoordigd is en dit aantal niet bij de vergadering aanwezig of vertegenwoordigd was, wordt een nieuwe vergadering bijeengeroepen waarin het betreffende besluit opnieuw aan de orde wordt gesteld.
 
 Die vergadering moet worden gehouden niet eerder dan drie en niet later dan
 zes weken na de eerste vergadering.
@@ -287,12 +284,9 @@ als bedoeld in de artikelen 13 tot en met 15.
 - twee gezamenlijk handelende bestuurders, van wie ten minste één moet zijn
 de voorzitter, de secretaris of de penningmeester.
 
-2. Het bestuur kan besluiten tot het verlenen van incidentele dan wel doorlopende
-volmacht aan een of meer bestuurders en/of aan anderen, zowel samen als
-afzonderlijk, om de stichting binnen de grenzen van die volmacht te
-vertegenwoordigen.
+2. Het bestuur kan besluiten tot het verlenen van incidentele dan wel doorlopende volmacht aan een of meer bestuurders en/of aan anderen, zowel samen als afzonderlijk, om de stichting binnen de grenzen van die volmacht te vertegenwoordigen.
 
-i## Artikel 8 - Raad van toezicht: samenstelling, benoeming, beloning, schorsing, ontslag
+## Artikel 8 - Raad van toezicht: samenstelling, benoeming, beloning, schorsing, ontslag
 
 1. De stichting heeft een raad van toezicht.
 
@@ -322,9 +316,9 @@ hoedanigheid van echtgenoot, geregistreerd partner of andere levensgezel.
 
 4. De leden van de raad van toezicht worden benoemd voor een periode van ten hoogste vier jaar.
 
-De raad van toezicht kan een rooster van aftreden maken. Een
-lid van de raad van toezicht kan onmiddellijk worden herbenoemd. Hij kan in
-totaal echter niet langer dan acht jaar zitting hebben in de raad van toezicht.
+De raad van toezicht kan een rooster van aftreden maken. Een lid van de raad
+van toezicht kan onmiddellijk worden herbenoemd. Hij kan in totaal echter
+niet langer dan acht jaar zitting hebben in de raad van toezicht.
 
 5. De leden van de raad van toezicht kunnen een vergoeding krijgen van de kosten
 die zij redelijkerwijs hebben gemaakt in de uitoefening van hun functie.
@@ -357,9 +351,7 @@ d. door zijn vrijwillig aftreden;
 e. door zijn ontslag door de raad van toezicht met inachtneming van de vereisten als opgenomen in artikel 9 lid 3;
 f. door het verstrijken van de periode waarvoor hij is benoemd;
 
-8. Bij belet of ontstentenis van een of meer leden van de raad van toezicht zijn de
-overige leden van de raad van toezicht, of is het enige overgebleven lid van de
-raad van toezicht, tijdelijk met het toezicht op het bestuur belast.
+8. Bij belet of ontstentenis van een of meer leden van de raad van toezicht zijn de overige leden van de raad van toezicht, of is het enige overgebleven lid van de raad van toezicht, tijdelijk met het toezicht op het bestuur belast.
 
 Bij belet of ontstentenis van alle leden van de raad van toezicht is een door de
 raad van toezicht daartoe voor onbepaalde tijd aan te wijzen persoon tijdelijk
@@ -369,10 +361,10 @@ met het toezicht op het bestuur belast.
 
 ## Artikel 9 - Raad van toezicht: vergaderingen en besluitvorming
 
-1. De raad van toezicht komt bijeen zodra uitvoering van aan de raad van toezicht
-opgedragen taken dat nodig maakt. De raad van toezicht komt minimaal
-éénmaal per kwartaal bijeen en verder zo vaak als ten minste een van zijn leden
-dat wenst.
+1. De raad van toezicht komt bijeen zodra uitvoering van aan de raad van toezicht opgedragen taken dat nodig maakt.
+
+De raad van toezicht komt minimaal éénmaal per kwartaal bijeen en verder
+zo vaak als ten minste een van zijn leden dat wenst.
 
 De raad van toezicht bespreekt minimaal éénmaal per jaar:
 
@@ -380,9 +372,7 @@ De raad van toezicht bespreekt minimaal éénmaal per jaar:
 - de uitkomsten van de beoordeling door het bestuur van de opzet en werking van de interne risicobeheersings- en controlesystemen en eventuele significante wijzigingen daarin;
 - zijn eigen functioneren, het functioneren van het bestuur en de relatie tussen de raad van toezicht en het bestuur.
 
-2. Het bepaalde in de artikelen 4 en 5 met betrekking tot de vergadering en de
-besluitvorming van het bestuur zijn zoveel mogelijk van overeenkomstige
-toepassing op de raad van toezicht.
+2. Het bepaalde in de artikelen 4 en 5 met betrekking tot de vergadering en de besluitvorming van het bestuur zijn zoveel mogelijk van overeenkomstige toepassing op de raad van toezicht.
 
 3. Een besluit van de raad van toezicht:
 
@@ -401,6 +391,7 @@ worden en hij kan zich daarin door een raadsman doen bijstaan.
 Bij een besluit over een lid van de raad van toezicht wordt het betreffende lid
 van de raad van toezicht niet meegeteld wat betreft het aantal leden dat
 aanwezig moet zijn en het aantal leden dat benodigd is om het besluit te nemen.
+
 Een dergelijk besluit kan echter nooit genomen worden door een enkel lid van
 de raad van toezicht.
 
@@ -420,6 +411,7 @@ welke overwegingen aan het besluit ten grondslag liggen.
 algemene gang van zaken in de stichting.
 
 De raad van toezicht houdt toezicht op ten minste:
+
 - de realisatie van de statutaire doelstellingen van de stichting;
 - de strategie en de risico’s verbonden aan de activiteiten van de stichting;
 - de opzet en werking van de interne risicobeheersings- en controlesystemen;
@@ -430,14 +422,13 @@ De raad van toezicht houdt toezicht op ten minste:
 
 3. Bij de uitoefening van hun taak richten de leden van de raad van toezicht zich naar het belang van de stichting.
 
-De leden van de raad van toezicht oefenen hun
-functie onafhankelijk uit, zonder last of ruggespraak en zonder een deelbelang
-te laten prevaleren.
+De leden van de raad van toezicht oefenen hun functie onafhankelijk uit,
+zonder last of ruggespraak en zonder een deelbelang te laten prevaleren.
 
-Een lid van de raad van toezicht is integer en vermijdt elke vorm en schijn van
-persoonlijke bevoordeling of belangenverstrengeling tussen hem en de stichting.
-Hij verschaft de raad van toezicht op eerste verzoek inzicht in de door hem
-uitgeoefende nevenfuncties
+Een lid van de raad van toezicht is integer en vermijdt elke vorm en schijn
+van persoonlijke bevoordeling of belangenverstrengeling tussen hem en de
+stichting.  Hij verschaft de raad van toezicht op eerste verzoek inzicht
+in de door hem uitgeoefende nevenfuncties.
 
 4. De raad van toezicht heeft recht op alle voor de uitoefening van zijn taken en bevoegdheden noodzakelijke gegevens.
 
@@ -447,32 +438,28 @@ andere gegevensdragers van de stichting.
 De raad van toezicht kan zich op kosten van de stichting in de uitoefening van
 zijn taak doen bijstaan door een of meer deskundigen.
 
-5. De raad van toezicht doet verslag van zijn werkzaamheden en het uitgeoefende
-toezicht. Dit verslag wordt aan de verslaggevingsstukken toegevoegd, als
-bedoeld in artikel 11.
+5. De raad van toezicht doet verslag van zijn werkzaamheden en het uitgeoefende toezicht. Dit verslag wordt aan de verslaggevingsstukken toegevoegd, als bedoeld in artikel 11.
 
 ## Artikel 11 - Boekjaar; verslaggeving
-1. Het boekjaar loopt gelijk aan het kalenderjaar.
 
-2. Het bestuur is verplicht jaarlijks binnen zes maanden na afloop van het boekjaar
-de balans en de staat van baten en lasten van de stichting op te maken en op
-papier te stellen.
+1. Het boekjaar loopt gelijk aan het kalenderjaar.
+2. Het bestuur is verplicht jaarlijks binnen zes maanden na afloop van het boekjaar de balans en de staat van baten en lasten van de stichting op te maken en op papier te stellen.
 
 Het bestuur zendt deze stukken en een nadere toelichting daarop vóór het einde
 van de in de voorgaande zin bedoelde termijn ter goedkeuring aan de raad van
 toezicht.
 
 Het bestuur maakt een jaarrekening en een bestuursverslag op als bedoeld in
-artikel 2:300 Burgerlijk Wetboek als dat op grond van de wet verplicht is. In dat
-geval legt het bestuur een exemplaar daarvan voor de raad van toezicht ter
-inzage op het kantoor van de stichting met de op grond van de wet toe te voegen
-gegevens.
+artikel 2:300 Burgerlijk Wetboek als dat op grond van de wet verplicht is.
+In dat geval legt het bestuur een exemplaar daarvan voor de raad van toezicht
+ter inzage op het kantoor van de stichting met de op grond van de wet toe te
+voegen gegevens.
 
 3. De raad van toezicht laat de stukken onderzoeken door een door hem aan te wijzen accountant als bedoeld in artikel 2:393 lid 1 Burgerlijk Wetboek.
 
-Deze accountant brengt over zijn onderzoek verslag uit aan de raad van toezicht en
-het bestuur. Hij geeft de uitslag van zijn onderzoek weer in een verklaring over
-de getrouwheid van de stukken.
+Deze accountant brengt over zijn onderzoek verslag uit aan de raad van
+toezicht en het bestuur. Hij geeft de uitslag van zijn onderzoek weer in
+een verklaring over de getrouwheid van de stukken.
 
 Als de wet dat toestaat kan de raad van toezicht besluiten dit onderzoek
 achterwege te laten of dit onderzoek te laten verrichten door een andere
@@ -491,35 +478,33 @@ ten hoogste vier maanden op grond van bijzondere omstandigheden.
 
 1. Het bestuur kan een of meer reglementen vaststellen.
 
-In een reglement worden
-regels of nadere regels opgenomen, die het bestuur nodig acht voor de
-uitvoering van zijn taak. Een reglement mag nooit in strijd zijn met de statuten,
-de wet of een reglement van de raad van toezicht.
+In een reglement worden regels of nadere regels opgenomen, die het bestuur
+nodig acht voor de uitvoering van zijn taak. Een reglement mag nooit in strijd
+zijn met de statuten, de wet of een reglement van de raad van toezicht.
+
 Het bestuur kan elk door hem gemaakt reglement wijzigen en ook intrekken.
 
 2. De raad van toezicht kan een of meer reglementen vaststellen.
 
-In een reglement
-worden regels of nadere regels opgenomen, die de raad van toezicht nodig acht
-voor de uitvoering van zijn taak. Een reglement mag nooit in strijd zijn met de
-statuten en/of de wet.
+In een reglement worden regels of nadere regels opgenomen, die de raad van
+toezicht nodig acht voor de uitvoering van zijn taak. Een reglement mag
+nooit in strijd zijn met de statuten en/of de wet.
 
 De raad van toezicht kan elk door hem gemaakt reglement wijzigen en ook
 intrekken.
 
 3. De raad van toezicht en het bestuur kunnen gezamenlijk een of meer reglementen vaststellen.
 
-In een reglement worden regels of nadere regels
-opgenomen, die de raad van toezicht en het bestuur nodig achten voor de
-uitvoering van hun gezamenlijke taken. Een reglement mag nooit in strijd zijn
-met de statuten en/of de wet.
+In een reglement worden regels of nadere regels opgenomen, die de raad van
+toezicht en het bestuur nodig achten voor de uitvoering van hun gezamenlijke
+taken. Een reglement mag nooit in strijd zijn met de statuten en/of de wet.
 
 De raad van toezicht en het bestuur kunnen gezamenlijk alle door hen gemaakte
 reglementen wijzigen en ook intrekken.
 
-4. Een reglement wordt schriftelijk vastgelegd met vermelding van de dag waarop
-het van kracht wordt. Deze datum kan niet zijn gelegen vóór de datum waarop
-het besluit werd genomen.
+4. Een reglement wordt schriftelijk vastgelegd met vermelding van de dag waarop het van kracht wordt.
+
+Deze datum kan niet zijn gelegen vóór de datum waarop het besluit werd genomen.
 
 ## Artikel 13 - Statutenwijziging
 
@@ -527,12 +512,11 @@ het besluit werd genomen.
 
 2. Het besluit tot statutenwijziging kan slechts worden genomen overeenkomstig het bepaalde in artikel 6 lid 4 en artikel 9 lid 4.
 
-3. Als een voorstel tot wijziging van de statuten wordt gedaan, moet dat vooraf, bij
-de oproeping tot de betreffende vergadering, worden vermeld.
+3. Als een voorstel tot wijziging van de statuten wordt gedaan, moet dat vooraf, bij de oproeping tot de betreffende vergadering, worden vermeld.
 
-De woordelijke
-tekst van de voorgestelde wijziging moet bij die oproeping worden gevoegd.
-De termijn van de oproeping bedraagt in dit geval ten minste twee weken.
+De woordelijke tekst van de voorgestelde wijziging moet bij die oproeping
+worden gevoegd.  De termijn van de oproeping bedraagt in dit geval ten
+minste twee weken.
 
 4. Een statutenwijziging treedt in werking op het door het bestuur bepaalde tijdstip, maar niet eerder dan nadat daarvan een notariële akte is opgemaakt.
 
@@ -543,11 +527,12 @@ afzonderlijk, machtigen de akte van statutenwijziging te laten verlijden.
 
 ## Artikel 14 - Fusie; splitsing; omzetting
 
-Op een besluit van het bestuur tot fusie of splitsing in de zin van titel 7 van Boek 2
-Burgerlijk Wetboek en op een besluit van het bestuur tot omzetting van de stichting
-in een andere rechtsvorm overeenkomstig artikel 2:18 Burgerlijk Wetboek, is het
-bepaalde in de leden 1, 2 en 3 van het vorige artikel zoveel mogelijk van
-overeenkomstige toepassing, onverminderd de eisen van de wet.
+Op een besluit van het bestuur tot fusie of splitsing in de zin van titel 7
+van Boek 2 Burgerlijk Wetboek en op een besluit van het bestuur tot omzetting
+van de stichting in een andere rechtsvorm overeenkomstig artikel 2:18
+Burgerlijk Wetboek, is het bepaalde in de leden 1, 2 en 3 van het vorige
+artikel zoveel mogelijk van overeenkomstige toepassing, onverminderd de
+eisen van de wet.
 
 ## Artikel 15 - Ontbinding
 
@@ -555,21 +540,20 @@ overeenkomstige toepassing, onverminderd de eisen van de wet.
 
 Op het besluit tot ontbinding is het bepaalde in artikel 13 leden 2 en 3 zo veel
 mogelijk van overeenkomstige toepassing.
+
 2. Het bestuur stelt bij zijn besluit tot ontbinding de bestemming vast van een eventueel batig saldo.
 
 Het batig saldo wordt besteed ten behoeve van een algemeen nut beogende
 instelling met een soortgelijke doelstelling.
 
-3. Als de stichting op het tijdstip van haar ontbinding geen baten meer heeft, houdt
-zij op te bestaan.
+3. Als de stichting op het tijdstip van haar ontbinding geen baten meer heeft, houdt zij op te bestaan.
 
 In dat geval doet het bestuur daarvan opgave aan het handelsregister.
 
 4. De boeken en stukken van de ontbonden stichting blijven gedurende zeven jaren nadat de stichting heeft opgehouden te bestaan onder bewaring van de door het bestuur bij het besluit tot ontbinding aangewezen persoon.
 
-Binnen acht dagen na
-het ingaan van zijn bewaarplicht moet de aangewezen bewaarder zijn naam en
-adres opgeven aan het handelsregister.
+Binnen acht dagen na het ingaan van zijn bewaarplicht moet de aangewezen
+bewaarder zijn naam en adres opgeven aan het handelsregister.
 
 5. De stichting wordt bovendien ontbonden door:
 
@@ -577,18 +561,18 @@ adres opgeven aan het handelsregister.
 - een daartoe strekkende rechterlijke uitspraak in de bij de wet genoemde gevallen.
 
 ## Artikel 16 - Vereffening
-1. Het bestuur is belast met de vereffening van het vermogen van de stichting, voor zover bij het ontbindingsbesluit geen andere vereffenaar(s) is (zijn)
-aangewezen.
+
+1. Het bestuur is belast met de vereffening van het vermogen van de stichting, voor zover bij het ontbindingsbesluit geen andere vereffenaar(s) is (zijn) aangewezen.
 
 2. Na het besluit tot ontbinding bevindt de stichting zich in liquidatie.
 
-De stichting blijft na haar ontbinding voortbestaan als en voor zover dit voor de
-vereffening van haar vermogen nodig is.
+De stichting blijft na haar ontbinding voortbestaan als en voor zover dit
+voor de vereffening van haar vermogen nodig is.
 
 Gedurende de vereffening blijven de bepalingen van de statuten voor zoveel
 mogelijk en nodig van kracht.
 
-In stukken en aankondigingen die van de stichting uitgaan, moet ‘in liquidatie’
+In stukken en aankondigingen die van de stichting uitgaan, moet 'in liquidatie'
 aan de naam van de stichting worden toegevoegd.
 
 3. Een batig saldo na vereffening krijgt een bestemming zoals vastgesteld bij het ontbindingsbesluit, of bij het ontbreken daarvan, door de vereffenaar(s) met inachtneming van het bepaalde in artikel 15 lid 2.
@@ -616,8 +600,7 @@ rechten die aan zijn deelnemerschap verbonden zijn niet uitoefenen.
 
 3. Telkens als het bestuur dit wenselijk acht, maar ten minste één keer per jaar, wordt een vergadering bijeengeroepen waarvoor alle deelnemers worden uitgenodigd.
 
-Deze vergadering wordt aangeduid als de vergadering van
-deelnemers.
+Deze vergadering wordt aangeduid als de vergadering van deelnemers.
 
 Een vergadering van deelnemers wordt bijeengeroepen door het bestuur.
 
@@ -630,21 +613,19 @@ daartoe.
 4. Behalve de deelnemers hebben ook alle bestuurders en alle leden van de raad
 van toezicht toegang tot de vergadering van deelnemers.
 
-Zij mogen in die
-vergadering het woord voeren. Over toelating van anderen dan de hiervoor
-bedoelde personen beslist het bestuur.
+Zij mogen in die vergadering het woord voeren. Over toelating van anderen
+dan de hiervoor bedoelde personen beslist het bestuur.
 
 5. De vergaderingen worden geleid door de voorzitter van de vergadering van deelnemers en bij zijn ontbreken de voorzitter van het bestuur.
 
-Wordt op deze
-wijze niet in het voorzitterschap van de vergadering voorzien, dan voorziet de
-vergadering daarin zelf. De vergadering wijst een secretaris aan die de notulen
-houdt.
+Wordt op deze wijze niet in het voorzitterschap van de vergadering voorzien,
+dan voorziet de vergadering daarin zelf. De vergadering wijst een secretaris
+aan die de notulen houdt.
 
 6. Iedere deelnemer heeft één stem.
 
-Besluiten van de vergadering van deelnemers
-worden genomen met volstrekte meerderheid van de stemmen.
+Besluiten van de vergadering van deelnemers worden genomen met volstrekte
+meerderheid van de stemmen.
 
 7. Het deelnemerschap eindigt door:
 
