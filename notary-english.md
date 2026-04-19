@@ -106,7 +106,7 @@ In the event of the impediment or absence of all directors, a person to
 be designated by the Supervisory Board for an indefinite period shall
 be temporarily charged with the management.
 
-## Article 4 -  Executive Board: convening, meetings, decision-making
+## Article 4 - Executive Board: convening, meetings, decision-making
 
 1. Every director is authorized to convene a meeting of the Executive Board.
 
@@ -541,7 +541,7 @@ prejudice to the requirements of the law.
 The provisions of Article 13, paragraphs 2 and 3 shall apply mutatis
 mutandis to the decision to dissolve, as far as possible.
 
-2. In its decision to dissolve, the Board shall determine the destination of any surplus.
+2. In its decision to dissolve, the Executive Board shall determine the destination of any surplus.
 
 The surplus shall be used for the benefit of an institution pursuing
 a public interest with a similar objective.
