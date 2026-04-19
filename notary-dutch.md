@@ -64,7 +64,7 @@ b. een bestuurder heeft het vrije beheer over zijn vermogen;
 c. een bestuurder is geen lid van de raad van toezicht en hij is gedurende een periode van drie jaar voorafgaand aan zijn benoeming tot bestuurder geen lid geweest van de raad van toezicht;
 d. een bestuurder is in de laatste vijf jaar niet door de rechtbank ontslagen als bestuurder van een stichting.
 
-Ten hoogste de helft van het aantal bestuurders mag met een andere bestuurder
+4. Ten hoogste de helft van het aantal bestuurders mag met een andere bestuurder
 een familieband hebben. Een bestuurder mag geen familieband hebben met een
 lid van de raad van toezicht. Onder familieband wordt verstaan bloed- of
 aanverwantschap tot en met de vierde graad en de hoedanigheid van echtgenoot,
