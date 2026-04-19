@@ -40,6 +40,7 @@ die deel uitmaken van organen van de stichting.
 1. Het bestuur van de stichting bestaat uit drie of meer natuurlijke personen.
 
 De vergadering van deelnemers stelt het aantal bestuurders vast.
+
 Een niet-voltallig bestuur behoudt zijn bevoegdheden.
 
 2. De bestuurders worden benoemd door de raad van toezicht op voordracht van de vergadering van deelnemers.
