@@ -64,7 +64,7 @@ b. a director has free control over his assets;
 c. a director is not a member of the Supervisory Board and has not been a member of the Supervisory Board during a period of three years prior to his appointment as director;
 d. a director has not been dismissed by the court as a director of a foundation in the last five years.
 
-At most half of the number of directors may have a family relationship
+4. At most half of the number of directors may have a family relationship
 with another director. A director may not have a family relationship with
 a member of the Supervisory Board. A family relationship is understood to
 mean blood or affinity up to and including the fourth degree and the
@@ -176,7 +176,7 @@ shall be taken by the Supervisory Board.
 
 ## Article 5 - Conduct of meetings, minutes, decision-making outside meetings
 
-1. The chairperson presides over the meetings of the board.
+1. The chairperson presides over the meetings of the Executive Board.
 
 In his absence, the meeting itself provides for its own leadership.
 
