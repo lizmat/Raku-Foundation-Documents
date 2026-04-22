@@ -165,7 +165,8 @@ of the votes cast.
 In the event of a tie vote on matters, the proposal is rejected.
 
 If there is a tie vote in a vote on the appointment of persons, the
-outcome shall be decided by lot.
+procedure described in the regulations for such a case, will be applied.
+If no such procedure exists, the outcome shall be decided by lot.
 
 8. If the presence or representation of a certain number of directors is required for a decision to be taken, and this number was not present or represented at the meeting, a new meeting shall be convened in which the decision in question is raised again.
 

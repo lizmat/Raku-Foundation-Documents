@@ -39,7 +39,7 @@ die deel uitmaken van organen van de stichting.
 
 1. Het bestuur van de stichting bestaat uit drie of meer natuurlijke personen.
 
-De vergadering van deelnemers stelt het aantal bestuurders vast.
+Het reglement stelt het aantal bestuurders vast.
 
 Een niet-voltallig bestuur behoudt zijn bevoegdheden.
 
@@ -76,7 +76,12 @@ geregistreerd partner of andere levensgezel.
 
 6. Alle bestuurders kunnen een vergoeding krijgen van de kosten die zij redelijkerwijs hebben gemaakt in de uitoefening van hun functie.
 
-De bestuurders ontvangen geen beloning voor hun werkzaamheden.
+De bestuurders ontvangen geen beloning voor hun werkzaamheden als bestuurder.
+
+Een directievergoeding kan worden verstrekt als een soort
+vrijwilligersvergoeding, maar deze mag niet buitensporig zijn en moet in
+verhouding staan het werk en de financiële situatie van de stichting en
+in overeenstemming zijn met het reglement.
 
 7. Een bestuurder kan door de raad van toezicht worden geschorst.
 
@@ -125,16 +130,20 @@ bericht.
 
 3. De vergaderingen van het bestuur worden gehouden op de plaats te bepalen door degene die de vergadering bijeenroept.
 
-4. Als wordt gehandeld in strijd met enige bepaling van de twee vorige leden kan het bestuur niettemin rechtsgeldige besluiten nemen als alle bestuurders in de vergadering aanwezig of vertegenwoordigd zijn.
+4. Indien een van de bepalingen van de twee voorgaande paragrafen wordt overtreden, kan het bestuur niettemin rechtsgeldige beslissingen nemen indien alle bestuursleden aanwezig of vertegenwoordigd zijn op de vergadering.
 
 5. Een bestuurder kan aan een andere bestuurder schriftelijk volmacht verlenen om zich in de vergadering te laten vertegenwoordigen.
 
 Een elektronisch vastgelegde volmacht geldt als een schriftelijke volmacht.
 
+Een bestuurder mag tijdens de vergadering niet meer dan één
+collega-bestuurder vertegenwoordigen. Deze vertegenwoordiging telt mee
+voor het behalen van het quorum.
+
 Een bestuurder kan niet meer dan één medebestuurder in de vergadering
 vertegenwoordigen.
 
-6. Als het bestuur daartoe besluit, kunnen bestuurders hun vergaderrechten uitoefenen via een elektronisch communicatiemiddel.
+6. Bestuurders hun vergaderrechten uitoefenen via een elektronisch communicatiemiddel.
 
 De bestuurder die op deze wijze aan de vergadering deelneemt, moet minimaal
 via het elektronisch communicatiemiddel:
@@ -157,8 +166,12 @@ de uitgebrachte stemmen.
 
 Bij staking van stemmen over zaken is het voorstel verworpen.
 
-Staken de stemmen bij een stemming over de benoeming van personen, dan
-beslist het lot.
+Indien er bij een stemming over de benoeming van personen sprake is van
+een gelijk aantal stemmen, dan zal de procedure zoals beschreven in het
+reglement voor dergelijke gevallen worden toegepast.
+
+Indien een dergelijke procedure niet bestaat, wordt de uitslag door
+loting bepaald.
 
 8. Als voor het nemen van een besluit wordt vereist dat een bepaald aantal bestuurders aanwezig of vertegenwoordigd is en dit aantal niet bij de vergadering aanwezig of vertegenwoordigd was, wordt een nieuwe vergadering bijeengeroepen waarin het betreffende besluit opnieuw aan de orde wordt gesteld.
 
@@ -188,7 +201,7 @@ of, als de oorspronkelijke stemming niet hoofdelijk of schriftelijk plaatsvond,
 een stemgerechtigde aanwezige dit verlangt. Door deze nieuwe stemming
 vervallen de rechtsgevolgen van de oorspronkelijke stemming.
 
-4. Van het verhandelde in de vergaderingen van het bestuur worden notulen gehouden door de daartoe door de voorzitter van de vergadering aangewezen persoon.
+4. Van het verhandelde in de vergaderingen van het bestuur worden notulen gehouden door de daartoe in de vergadering aangewezen persoon.
 
 De notulen worden – nadat zij zijn vastgesteld – door de voorzitter en de
 notulist van de vergadering ondertekend.
@@ -406,7 +419,9 @@ de raad van toezicht.
 
 4. Een besluit van de raad van toezicht tot het verlenen van goedkeuring voor statutenwijziging, fusie, splitsing, omzetting of ontbinding als bedoeld in de artikelen 13 tot en met 15, wordt genomen met een meerderheid van ten minste twee derde van de uitgebrachte stemmen in een vergadering waarin alle leden van de raad van toezicht aanwezig of vertegenwoordigd zijn.
 
-5. Een lid van de raad van toezicht neemt niet deel aan de beraadslagingen en de besluitvorming als hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van de stichting en de met haar verbonden organisatie.
+5. Een lid van de raad van toezicht mag niet deelnemen aan de besluitvorming
+indien hij een direct of indirect persoonlijk belang heeft dat strijdig is
+met de belangen van de stichting en de daaraan gelieerde organisatie.
 
 Wanneer de raad van toezicht hierdoor geen besluit kan nemen, is het
 betreffende lid van de raad van toezicht toch bevoegd om deel te nemen aan de
@@ -485,33 +500,35 @@ ten hoogste vier maanden op grond van bijzondere omstandigheden.
 
 ## Artikel 12 - Reglementen
 
-1. Het bestuur kan een of meer reglementen vaststellen.
+1. Het bestuur kan een of meer regels vaststellen voor het reglement.
 
-In een reglement worden regels of nadere regels opgenomen, die het bestuur
-nodig acht voor de uitvoering van zijn taak. Een reglement mag nooit in strijd
-zijn met de statuten, de wet of een reglement van de raad van toezicht.
+In het reglement worden regels of nadere regels opgenomen, die het bestuur
+nodig acht voor de uitvoering van zijn taak. Een regel mag nooit in strijd
+zijn met de statuten, de wet of andere regels in het reglement.
 
-Het bestuur kan elk door hem gemaakt reglement wijzigen en ook intrekken.
+Het bestuur kan elk door hem gemaakte regels wijzigen en ook intrekken.
 
-2. De raad van toezicht kan een of meer reglementen vaststellen.
+2. De raad van toezicht kan een of meer regels vaststellen voor het reglement.
 
-In een reglement worden regels of nadere regels opgenomen, die de raad van
-toezicht nodig acht voor de uitvoering van zijn taak. Een reglement mag
-nooit in strijd zijn met de statuten en/of de wet.
+In het reglement worden regels of nadere regels opgenomen, die de raad van
+toezicht nodig acht voor de uitvoering van zijn taak. Een regel mag
+nooit in strijd zijn met de statuten, de wet of andere regels in het
+reglement.
 
-De raad van toezicht kan elk door hem gemaakt reglement wijzigen en ook
+De raad van toezicht kan elk door hem gemaakt regel wijzigen en ook
 intrekken.
 
-3. De raad van toezicht en het bestuur kunnen gezamenlijk een of meer reglementen vaststellen.
+3. De raad van toezicht en het bestuur kunnen gezamenlijk een of meer regels vaststellen voor het reglement.
 
-In een reglement worden regels of nadere regels opgenomen, die de raad van
+In een regel worden regels of nadere regels opgenomen, die de raad van
 toezicht en het bestuur nodig achten voor de uitvoering van hun gezamenlijke
-taken. Een reglement mag nooit in strijd zijn met de statuten en/of de wet.
+taken. Een regel mag nooit in strijd zijn met de statuten, de wet of andere
+regels in het reglement.
 
 De raad van toezicht en het bestuur kunnen gezamenlijk alle door hen gemaakte
-reglementen wijzigen en ook intrekken.
+regels wijzigen en ook intrekken.
 
-4. Een reglement wordt schriftelijk vastgelegd met vermelding van de dag waarop het van kracht wordt.
+4. Een regel wordt schriftelijk vastgelegd met vermelding van de dag waarop deze van kracht wordt.
 
 Deze datum kan niet zijn gelegen vóór de datum waarop het besluit werd genomen.
 
