@@ -66,7 +66,7 @@ b. een bestuurder heeft het vrije beheer over zijn vermogen;
 c. een bestuurder is geen lid van de raad van toezicht;
 d. een bestuurder is in de laatste vijf jaar niet door de rechtbank ontslagen als bestuurder van een stichting.
 
-Ten hoogste de helft van het aantal bestuurders mag met een andere bestuurder
+4. Ten hoogste de helft van het aantal bestuurders mag met een andere bestuurder
 een familieband hebben. Een bestuurder mag geen familieband hebben met een
 lid van de raad van toezicht. Onder familieband wordt verstaan bloed- of
 aanverwantschap tot en met de vierde graad en de hoedanigheid van echtgenoot,
@@ -130,7 +130,7 @@ bericht.
 
 3. De vergaderingen van het bestuur worden gehouden op de plaats te bepalen door degene die de vergadering bijeenroept.
 
-4. Indien een van de bepalingen van de twee voorgaande paragrafen wordt overtreden, kan het bestuur niettemin rechtsgeldige beslissingen nemen indien alle bestuursleden aanwezig of vertegenwoordigd zijn op de vergadering.
+4. Als wordt gehandeld in strijd met enige bepaling van de twee vorige leden kan het bestuur niettemin rechtsgeldige besluiten nemen als alle bestuurders in de vergadering aanwezig of vertegenwoordigd zijn.
 
 5. Een bestuurder kan aan een andere bestuurder schriftelijk volmacht verlenen om zich in de vergadering te laten vertegenwoordigen.
 
@@ -139,9 +139,6 @@ Een elektronisch vastgelegde volmacht geldt als een schriftelijke volmacht.
 Een bestuurder mag tijdens de vergadering niet meer dan één
 collega-bestuurder vertegenwoordigen. Deze vertegenwoordiging telt mee
 voor het behalen van het quorum.
-
-Een bestuurder kan niet meer dan één medebestuurder in de vergadering
-vertegenwoordigen.
 
 6. Bestuurders hun vergaderrechten uitoefenen via een elektronisch communicatiemiddel.
 
@@ -237,7 +234,9 @@ van de stichting en de besteding daarvan.
 
 Vergaderingen en alle communicatie gebruiken Engels als voertaal.
 
-Alle documenten met betrekking tot de Stichting Raku Foundation moeten in het Engels gesteld zijn, met uitzondering van die welke in het Nederlands moeten zijn indien vereist door de Nederlandse wet.
+Alle documenten met betrekking tot de Stichting Raku Foundation moeten in
+het Engels gesteld zijn, met uitzondering van die welke in het Nederlands
+moeten zijn indien vereist door de Nederlandse wet.
 
 ## Artikel 6 - Bestuur: taken en bevoegdheden
 
@@ -498,7 +497,7 @@ de reden daarvan op de stukken vermeld.
 5. De in lid 2 vermelde termijn kan door de raad van toezicht worden verlengd met
 ten hoogste vier maanden op grond van bijzondere omstandigheden.
 
-## Artikel 12 - Reglementen
+## Artikel 12 - Reglement
 
 1. Het bestuur kan een of meer regels vaststellen voor het reglement.
 
